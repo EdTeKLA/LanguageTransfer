@@ -1,0 +1,3 @@
+[submodule "nlt-classification"]
+	path = nlt-classification
+	url = https://github.com/leticiawanderley/nlt-classification
