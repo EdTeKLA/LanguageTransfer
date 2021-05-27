@@ -13,14 +13,18 @@ The negative language transfer annotated data follows the format described in th
 When using the negative language transfer annotated data, you are encouraged to cite the following papers:
 
 ```
-@inproceedings{nlt-dataset,
-    title = "Negative language transfer in learner {E}nglish: {A} new dataset",
-    author = "Wanderley, Leticia Farias  and
+@inproceedings{farias-wanderley-etal-2021-negative,
+    title = "Negative language transfer in learner {E}nglish: A new dataset",
+    author = "Farias Wanderley, Leticia  and
       Zhao, Nicole  and
       Demmans Epp, Carrie",
-    booktitle="Proceedings of the 2021 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
     year = "2021",
-    publisher = "In press"
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.naacl-main.251",
+    pages = "3129--3142"
 }
 
 @inproceedings{yannakoudakis2011fce,
