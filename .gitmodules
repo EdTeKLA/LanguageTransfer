@@ -1,3 +1,6 @@
 [submodule "nlt-classification"]
 	path = nlt-classification
 	url = https://github.com/leticiawanderley/nlt-classification
+[submodule "identifying-nlt"]
+	path = identifying-nlt
+	url = https://github.com/leticiawanderley/identifying-nlt.git

@@ -38,4 +38,7 @@ When using the negative language transfer annotated data, you are encouraged to 
 ```
 
 ## Negative language transfer classification
-To view the code used to analyse the predictive power of logistic regression and random forest models in classifying learner errors as negative language transfer, go to the <a href="https://github.com/leticiawanderley/nlt-classification/" target="_blank">nlt-classification</a> folder.
+To view the code used to analyse the predictive power of logistic regression and random forest models in classifying learner errors as negative language transfer, go to the <a href="https://github.com/leticiawanderley/nlt-classification/" target="_blank">nlt-classification</a> repository.
+
+## Identifying negative language transfer in learner errors using POS information
+In this work, learner errors were converted into part-of-speech (POS) tag sequences and analysed by language models that represented POS tag sequences found in the first and second languages. To learn more about using POS tag sequences to detect negative language transfer, follow this link to the <a href="https://github.com/leticiawanderley/identifying-nlt/" target="_blank">identifying-nlt</a> repository.
