@@ -38,7 +38,7 @@ When using the negative language transfer annotated data, you are encouraged to 
 ```
 
 ## Negative language transfer dataset (Farsi speakers)
-To access the negative language transfer annotations added to the errors made by Farsi native speakers whose essays are part of the Lang-8 dataset, fill and submit <a href="https://docs.google.com/forms/d/e/1FAIpQLSccWWkP_6kzUJSekgPUx4IFLWq29J8fmeuqaJTQyN-dTpbXGQ" target="_blank">this form</a>.
+To access the negative language transfer annotations added to the errors made by Farsi native speakers whose essays are part of the Lang-8 dataset, fill and submit <a href="https://docs.google.com/forms/d/e/1FAIpQLSccWWkP_6kzUJSekgPUx4IFLWq29J8fmeuqaJTQyN-dTpbXGQ/viewform?usp=sharing" target="_blank">this form</a>.
 
 ## Negative language transfer classification
 To view the code used to analyse the predictive power of logistic regression and random forest models in classifying learner errors as negative language transfer, go to the <a href="https://github.com/leticiawanderley/nlt-classification/" target="_blank">nlt-classification</a> repository.
